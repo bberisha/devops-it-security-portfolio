@@ -2,6 +2,9 @@
 
 **Project type:** Independent application development and DevOps learning project  
 **Technologies:** Python 3.12 · Flask · SQLite · HTML/CSS · Git · Bitbucket · Docker · Bitbucket Pipelines · Ubuntu Linux
+** EXAM.APP – Azure-104 Examination Platform **
+Designed and developed an end-to-end examination platform using Python Flask, featuring secure authentication and MFA, randomized Azure-104 exams, automated scoring, persistent results, Microsoft Graph email integration, PDF certificate generation, Git-based development, CI/CD, and secure external access through Cloudflare Tunnel.
+https://lnkd.in/e2fws-y6
 
 ## Goal
 

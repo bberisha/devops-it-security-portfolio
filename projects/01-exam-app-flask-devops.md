@@ -53,6 +53,4 @@ flowchart LR
 - Use hardened Flask runtime configuration, secure session settings, protected secrets, and rate limiting.
 - Produce an SBOM and sign/pin release artifacts where appropriate.
 
-## Interview summary (German)
 
-> „Ich habe eine Python-/Flask-basierte Prüfungsanwendung entwickelt, mit Docker containerisiert und die CI/CD-Konfiguration mit Bitbucket Pipelines bearbeitet. Dabei habe ich Fehler im Bereich Authentifizierung, Routing und Deployment untersucht. Besonders interessant waren die sicherheitsrelevanten Fragen rund um MFA, Credentials und automatisierte Qualitäts- und Sicherheitsprüfungen. Diese letzten Kontrollen sind auch ein wichtiger Teil meiner geplanten Weiterentwicklung des Projekts.“

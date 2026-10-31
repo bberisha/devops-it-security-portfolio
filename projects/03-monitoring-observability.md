@@ -55,6 +55,4 @@ Centralized logs and metrics can help detect unexpected restarts, resource exhau
 - Introduce retention, index lifecycle management, and sensible disk/memory sizing.
 - Add security-relevant alert use cases and test how events would be triaged.
 
-## Interview summary (German)
 
-> „In meiner Monitoring-Laborumgebung habe ich mit Prometheus, Grafana und Node Exporter gearbeitet sowie Elasticsearch, Kibana und Beats installiert und analysiert. Dabei ging es nicht nur um die Visualisierung von Systemressourcen, sondern auch um die Fehlersuche bei Services, Berechtigungen und Ressourcenengpässen. Ich sehe hier eine direkte Verbindung zu IT-Security, weil gute Transparenz über Systeme und Ereignisse für die Erkennung und Untersuchung von Sicherheitsvorfällen wichtig ist.“

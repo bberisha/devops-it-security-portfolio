@@ -75,6 +75,4 @@ Cluster reliability and security are interconnected. Relevant design controls in
 - Use declarative configuration and a controlled image update process.
 - Add periodic configuration audits and a documented backup/restore exercise.
 
-## Interview summary (German)
 
-> „Ich habe in einer eigenen Laborumgebung einen Kubernetes-Cluster mit einem Control-Plane-Node und zwei Worker-Nodes aufgebaut. Ich habe dabei die Installation, die Cluster-Komponenten und das Troubleshooting praktisch kennengelernt. Besonders intensiv habe ich Netzwerkprobleme, fehlerhafte Pods und fehlende Metriken untersucht. Dadurch habe ich ein besseres Verständnis dafür gewonnen, wie Container-Orchestrierung, Linux-Dienste und Netzwerkkonfiguration zusammenhängen.“
